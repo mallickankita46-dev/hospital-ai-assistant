@@ -23,8 +23,6 @@ A FastAPI hospital management and RAG chatbot for departments, doctors, patients
 ## Quick start (Windows)
 
 ```powershell
-git clone https://github.com/mallickankita46-dev/hospital-ai-assistant
-cd hospital-ai-assistant
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
